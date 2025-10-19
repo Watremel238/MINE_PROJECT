@@ -1,2 +1,1 @@
-# MINE_PROJECT
-YES
+ну мой проект
